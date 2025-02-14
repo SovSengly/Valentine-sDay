@@ -9,11 +9,7 @@ const loveEffect = document.querySelector('.love-effect');
 
 const messages = [
     "Happy Valentine's Day!",
-    "Stay here, don't leave, and accompany me until we grow old together.",
-    "You are my destination in both happiness and sorrow.",
-    "I can't imagine how shattered my days would be if you were no longer here.",
-    "If you ever feel bored, stay here.",
-    "Let me fix everything to make you comfortable and never want to leave for someone else."
+    "សួស្តីថ្ងៃបុណ្យនៃក្ដីស្រលាញ់! ❤️ សូមឲ្យថ្ងៃវ៉ាលិនថាញ៍នេះពោរពេញដោយស្នេហា សុភមង្គល និងភាពកក់ក្តៅក្នុងចិត្ត! 💕🌹"
 ];
 
 
