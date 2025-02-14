@@ -8,7 +8,6 @@ const nextPageButton = document.getElementById('nextPageButton');
 const loveEffect = document.querySelector('.love-effect');
 
 const messages = [
-    "Happy Valentine's Day!",
     "សួស្តីថ្ងៃបុណ្យនៃក្ដីស្រលាញ់! ❤️ សូមឲ្យថ្ងៃវ៉ាលិនថាញ៍នេះពោរពេញដោយស្នេហា សុភមង្គល និងភាពកក់ក្តៅក្នុងចិត្ត! 💕🌹"
 ];
 
